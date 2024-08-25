@@ -5,3 +5,4 @@
 - `mpv_thumbnail_script` by [TheAMM](https://github.com/TheAMM/mpv_thumbnail_script)
 - `command-palette` by [stax76](https://github.com/stax76/mpv-scripts/blob/main/command_palette.lua)
 - `extended-menu` by [Seme4eg](https://github.com/Seme4eg/mpv-scripts/blob/master/script-modules/extended-menu.lua)
+- `copyTime.lua` by [Arieleg](https://github.com/Arieleg/mpv-copyTime/blob/master/copyTime.lua)
